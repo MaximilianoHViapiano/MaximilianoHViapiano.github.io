@@ -1,0 +1,31 @@
+/*
+*{
+   background-color: bisque;
+}
+*/ 
+
+/*esto es un comentario de una sola linea, CSS */
+body {
+    background-color: rgb(217, 255, 0);
+}
+
+/* aplicar estilo por un id  */ 
+#idsection{
+    background-color: blueviolet;
+}
+#idnav{
+    background-color: darkorange;
+}
+
+.links {
+    color:seashell;
+}
+
+/* selector etiqueta */ 
+a{
+    text-decoration: none;
+}
+
+#idlink2{
+    color: aqua
+}
